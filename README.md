@@ -12,7 +12,7 @@ EWR (Newark Liberty International Airport) faced significant delays in 2022, res
 
 Newark Liberty International Airport (EWR), a major airport in New Jersey serving the New York City metropolitan area, has witnessed a substantial increase in flight delays. This has led to frustration among passengers and airlines, with EWR ranking poorly in terms of flight delays in the United States (Federal Aviation Administration, 2023). In 2022, flight delays at EWR surged by over 50% compared to the previous year, negatively impacting airlines and passenger satisfaction.
 
-The reasons for these delays are multifaceted, including air traffic congestion, runway closures, weather-related disruptions, and operational challenges. For instance, the summer of 2022 saw record thunderstorms that disrupted flight schedules (NextGen Weather, n.d.).
+The reasons for these delays are multifaceted, including air traffic congestion, runway closures, weather-related disruptions, and operational challenges. For instance, the summer of 2022 saw record thunderstorms that disrupted flight schedules.
 
 To address this issue, airport operators and airlines are working to identify primary delay causes and implement strategies for operational improvements, such as optimizing runway usage and enhancing communication during disruptions.
 
@@ -22,8 +22,8 @@ This project aims to investigate the causes of delays at EWR and assess public s
 
 - **Data**: This folder contains datasets used in the analysis.
 - **Notebooks**: Jupyter notebooks with code for data analysis and sentiment analysis.
-- **Results**: Output files and reports from the analysis.
-- **Images**: Any images or visualizations included in the analysis.
+- **Sentiment analysis**: Jupyter notebook with code forsentiment analysis.
+- **Visualisation.md**: Visualisations are shown in this .
 
 ## Insights from the Dataset
 
