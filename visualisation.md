@@ -3,10 +3,14 @@
 The delay at EWR in the year 2022 can be attributed to various factors, such as weather at the airport and capacity. Therefore, we have analyzed the data containing weather, capacity, and delays at EWR airport from 2018 to 2022 to determine the reason for the increased delays in 2022.
 
 **Figure 1. Departures per year**
+
 ![Departures per year](https://github.com/muralikrishna02/EWR-Flight-Delays-Public-Opinion-Analysis/assets/37668819/73f82cda-722c-4e5f-947c-91c100f98b12)
 
+
 **Figure 2. Arrivals per year**
+
 <img width="452" alt="image" src="https://github.com/muralikrishna02/EWR-Flight-Delays-Public-Opinion-Analysis/assets/37668819/e9c3a467-fbc1-43e7-ab39-28729377ce02">
+
 
 Arrivals and departures have been almost constant in the year 2018 and 2019. Later in the year, we can see that arrivals and departures have decreased to a great extent. This decrease can be attributed to the Covid-19 outbreak. Later in 2021 and 2022, we see that travel has started booming and returning to normal. However, the arrivals and departures are still less in 2022 compared to 2018 and 2019. The delays at EWR pre-Covid were high, and traffic was at an all-time high. Although it declined due to travel restrictions during the Covid period and post-Covid due to ease in travel restrictions, traffic is on a continuous rise which will raise problems related to airport capacity, arrivals, and departures, increasing in turn delays. Another factor for an increase in delays in 2022 may be attributed to the reduction in the airport staff post-Covid.
 
