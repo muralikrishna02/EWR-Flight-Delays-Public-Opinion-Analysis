@@ -61,7 +61,7 @@ We have also performed sentiment analysis on the tweets from Twitter to understa
 
 ## Results
 
-Certainly, here are key findings and recommendations based on the analysis of flight delays and public sentiment at EWR Airport:
+The key findings and recommendations based on the analysis of flight delays and public sentiment at EWR Airport:
 
 **Key Findings:**
 
