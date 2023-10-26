@@ -12,7 +12,7 @@ EWR (Newark Liberty International Airport) faced significant delays in 2022, res
 
 Newark Liberty International Airport (EWR), a major airport in New Jersey serving the New York City metropolitan area, has witnessed a substantial increase in flight delays. This has led to frustration among passengers and airlines, with EWR ranking poorly in terms of flight delays in the United States (Federal Aviation Administration, 2023). In 2022, flight delays at EWR surged by over 50% compared to the previous year, negatively impacting airlines and passenger satisfaction.
 
-The reasons for these delays are multifaceted, including air traffic congestion, runway closures, weather-related disruptions, and operational challenges. For instance, the summer of 2022 saw record thunderstorms that disrupted flight schedules (NextGen Weather, n.d.).
+The reasons for these delays are multifaceted, including air traffic congestion, runway closures, weather-related disruptions, and operational challenges. For instance, the summer of 2022 saw record thunderstorms that disrupted flight schedules.
 
 To address this issue, airport operators and airlines are working to identify primary delay causes and implement strategies for operational improvements, such as optimizing runway usage and enhancing communication during disruptions.
 
@@ -22,8 +22,8 @@ This project aims to investigate the causes of delays at EWR and assess public s
 
 - **Data**: This folder contains datasets used in the analysis.
 - **Notebooks**: Jupyter notebooks with code for data analysis and sentiment analysis.
-- **Results**: Output files and reports from the analysis.
-- **Images**: Any images or visualizations included in the analysis.
+- **Sentiment analysis**: Jupyter notebook with code forsentiment analysis.
+- **Visualisation.md**: Visualisations are shown in this .
 
 ## Insights from the Dataset
 
@@ -61,9 +61,34 @@ We have also performed sentiment analysis on the tweets from Twitter to understa
 
 ## Results
 
-- **Key Findings**: need to  Summarize the main findings of your analysis, such as the primary causes of flight delays and the sentiment of the public toward EWR Airport.
+The key findings and recommendations based on the analysis of flight delays and public sentiment at EWR Airport:
 
-- **Recommendations**: need to add actionable recommendations based on the analysis, addressing both delay causes and public sentiment.
+**Key Findings:**
+
+1. **Primary Causes of Flight Delays:** The analysis identified several primary causes of flight delays at EWR Airport. These include "Traffic Management Initiatives," "Gate Delays," "Taxi Delays," and "Airborne Delays." These delays can be attributed to factors like airport capacity constraints, operational inefficiencies, and high traffic volume.
+
+2. **Impact of Capacity Constraints:** The study highlighted the significance of airport capacity constraints as a key contributor to delays. Despite the decrease in arrivals and departures during the COVID-19 pandemic, the airport's capacity remained a challenge, especially in 2022. This suggests the need for infrastructure upgrades and efficient resource management to address delays.
+
+3. **Public Sentiment:** Sentiment analysis of Twitter data revealed that around 59.7% of tweets expressed negative sentiment related to EWR Airport. The most discussed delay topics in tweets were "Traffic Management Initiatives," "Gate Delays," and "Taxi Delays," which aligns with the identified delay causes in the analysis.
+
+**Recommendations:**
+
+1. **Invest in Infrastructure Upgrades:** To mitigate delays caused by capacity constraints, EWR Airport should consider investing in infrastructure upgrades, such as expanding runways and gate facilities. This will help the airport handle increased traffic more efficiently.
+
+2. **Enhance Staffing Levels:** Addressing delays also requires maintaining adequate staffing levels. Considering the impact of reduced staff post-COVID, EWR should evaluate staffing needs and ensure that there are sufficient personnel to handle flights, passengers, and baggage.
+
+3. **Traffic Management Initiatives:** To manage traffic effectively, the airport should continue implementing and refining traffic management initiatives. This might include optimizing flight schedules and gate usage during peak hours to reduce congestion.
+
+4. **Weather Forecasting Tools:** Given the impact of weather-related delays, EWR should invest in advanced weather forecasting tools to better anticipate adverse weather conditions. This will help the airport proactively adjust operations to minimize disruptions.
+
+5. **Improve Communication:** Enhancing communication between airlines and passengers during disruptions is crucial. EWR should establish effective communication channels to keep travelers informed about delays and provide alternative solutions.
+
+6. **Social Media Engagement:** EWR can use social media platforms to engage with the public, respond to complaints, and provide real-time updates during delays. This proactive approach can help manage public sentiment and improve the passenger experience.
+
+7. **Data-Driven Decision-Making:** Continue analyzing flight data and public sentiment over time to make informed, data-driven decisions. Regularly assess performance metrics and adjust strategies accordingly.
+
+By implementing these recommendations, EWR Airport can work towards reducing delays, improving operational efficiency, and enhancing the passenger experience. Addressing capacity constraints and public sentiment is key to maintaining a positive reputation and ensuring a smoother travel experience for all.
+
 
 ## Conclusion
 
